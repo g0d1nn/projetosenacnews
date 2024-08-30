@@ -4,11 +4,14 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Senac News</title>
+    <link rel="stylesheet" type="text/css" href="css/style.css">
   </head>
     <body>
       <header>  <!--cabeçalho -->
-        <h1><a href="index.php">Senac News</a></h1>
-        <nav>
+        <a href=index.php>
+          <img id="logo" src="img/Senac News.png" alt="Logo do Senac News">
+        </a> 
+        <nav class="menu_opcoes">
           <ul> <!-- lista/menu -->
             <li><a href="#">Sua Conta</a></li>
             <li><a href="#">Destaques</a></li>
@@ -21,3 +24,4 @@
           </ul>
         </nav>
       </header>
+      <div class="container"
