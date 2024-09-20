@@ -1,4 +1,4 @@
-# Projeto SenacNews
+# Projeto SenacNews 📰
 
 ## Descrição do Projeto
 
