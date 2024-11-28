@@ -11,7 +11,7 @@
     <body>
       <header>  <!--cabeçalho -->
         <a href=index.php>
-          <img id="logo" src="img/Senac News.png" alt="Logo do Senac News">
+          <img id="logo" src="img/Senac News2.png" alt="Logo do Senac News">
         </a> 
         <nav class="menu_opcoes">
           <ul> <!-- lista/menu -->
@@ -22,7 +22,6 @@
             <li><a href="#">Galeria</a></li>
             <li><a href="#">Ajuda</a></li>
             <li><a href="sobre.php">Sobre</a></li>
-            <li><a href="naoclique.php">não clique</a></li>
           </ul>
         </nav>
       </header>

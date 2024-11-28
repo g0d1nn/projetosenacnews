@@ -84,11 +84,11 @@
     <!-- fim destaque -->
         <div class="todo">
             <section class="principal">
-                <h2>Notícias</h2>
+                <h2>Notícias em alta</h2>
                 <ul>
                     <li>
                         <p>O Ficthon é uma competição que ocorrerá na capital Curitiba, ela tem por objetivo mobilizar os estudantes
-                            a respeito das ODS, para isso, cada equipe precisava desenvolver uma ideia-ação voltada para resolução de um problema que tivesse relação com as ODS
+                            a respeito das ODS  <a href="noticia.php">...Leia mais</a>
                         </p>
                         <a href="noticia.php">
                             <figure>
@@ -100,6 +100,7 @@
                     <li>
                         <p>O Ficthon é uma competição que ocorrerá na capital Curitiba, ela tem por objetivo mobilizar os estudantes
                             a respeito das ODS, para isso, cada equipe precisava desenvolver uma ideia-ação voltada para resolução de um problema que tivesse relação com as ODS
+                            <a href="noticia.php">...Leia mais</a>
                         </p>
                         <a href="#">
                             <figure>
@@ -110,7 +111,8 @@
                     </li>
                     <li>
                         <p>O Ficthon é uma competição que ocorrerá na capital Curitiba, ela tem por objetivo mobilizar os estudantes
-                         a respeito das ODS, para isso, cada equipe precisava desenvolver uma ideia-ação voltada para resolução de um problema que tivesse relação com as ODS
+                            a respeito das ODS, para isso, cada equipe precisava desenvolver uma ideia-ação voltada para resolução de um problema que tivesse relação com as ODS
+                            <a href="noticia.php">...Leia mais</a>
                         </p>
                         <a href="#">
                             <figure>
@@ -122,6 +124,7 @@
                     <li>
                         <p>O Ficthon é uma competição que ocorrerá na capital Curitiba, ela tem por objetivo mobilizar os estudantes
                              a respeito das ODS, para isso, cada equipe precisava desenvolver uma ideia-ação voltada para resolução de um problema que tivesse relação com as ODS
+                             <a href="noticia.php">...Leia mais</a>
                         </p>
                         <a href="#">
                             <figure>
