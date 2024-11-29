@@ -79,8 +79,8 @@
 
 .mySlides img {
   width: 100%;
-  height: auto; /* Mantém a proporção da imagem */
-  max-height: 500px; /* Ajuste conforme necessário */
+  height: auto; 
+  max-height: 500px; 
 }
 
 

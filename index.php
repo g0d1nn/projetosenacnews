@@ -41,13 +41,13 @@
                             <li><a href="#">Pagar empréstimo</a></li>
                         </ul>
                     </li>
-                    <!-- <li><a href="#">Calendário</a>
+                    <li><a href="#">Calendário</a>
                         <ul>
                             <li><a href="#">Semana de provas</a></li>
                             <li><a href="#">Feriados</a></li>
                             <li><a href="#">Horários de aula</a></li>
                         </ul>
-                    </li> -->
+                    </li>
                 </ul>
             </nav>
 
@@ -88,48 +88,50 @@
                 <ul>
                     <li>
                         <p>O Ficthon é uma competição que ocorrerá na capital Curitiba, ela tem por objetivo mobilizar os estudantes
-                            a respeito das ODS  <a href="noticia.php">...Leia mais</a>
-                        </p>
-                        <a href="noticia.php">
-                            <figure>
-                                <img src="img/noticiaficthon.png" alt="Notícia do dia" style="width: 50%">
-                                <figcaption>Senac promove viagens do Ficthon a alunos vencedores.</figcaption>
-                            </figure>
-                        </a>
-                    </li>
-                    <li>
-                        <p>O Ficthon é uma competição que ocorrerá na capital Curitiba, ela tem por objetivo mobilizar os estudantes
                             a respeito das ODS, para isso, cada equipe precisava desenvolver uma ideia-ação voltada para resolução de um problema que tivesse relação com as ODS
-                            <a href="noticia.php">...Leia mais</a>
+                            <a href="#">...Leia mais</a>
                         </p>
                         <a href="#">
                             <figure>
-                                <img src="img/noticiaroubo.jpg" alt="Notícia do dia" style="width: 50%">
-                                <figcaption>Roubo de Bike acontece no Senac</figcaption>
-                            </figure>
-                        </a>
-                    </li>
-                    <li>
-                        <p>O Ficthon é uma competição que ocorrerá na capital Curitiba, ela tem por objetivo mobilizar os estudantes
-                            a respeito das ODS, para isso, cada equipe precisava desenvolver uma ideia-ação voltada para resolução de um problema que tivesse relação com as ODS
-                            <a href="noticia.php">...Leia mais</a>
-                        </p>
-                        <a href="#">
-                            <figure>
-                                <img src="img/noticiaprova.jpg" alt="Notícia do dia" style="width: 50%">
+                                <img src="img/noticiaficthon.png" alt="Notícia do dia">
                                 <figcaption>Senac promove viagens do Ficthon a alunos vencedores.</figcaption>
                             </figure>
                         </a>
                     </li>
                     <li>
-                        <p>O Ficthon é uma competição que ocorrerá na capital Curitiba, ela tem por objetivo mobilizar os estudantes
-                             a respeito das ODS, para isso, cada equipe precisava desenvolver uma ideia-ação voltada para resolução de um problema que tivesse relação com as ODS
-                             <a href="noticia.php">...Leia mais</a>
+                        <p>Em um mundo cada vez mais conectado, pequenas empresas enfrentam desafios crescentes relacionados à cibersegurança. 
+                            Dados da empresa de análise CyberStat mostram que, em 2023, 43% dos ataques cibernéticos foram direcionados a pequenas empresas,
+                             que muitas vezes não possuem recursos robustos para se proteger.
+                            <a href="#">...Leia mais</a>
                         </p>
                         <a href="#">
                             <figure>
-                                <img src="img/goku.jpg" alt="Notícia do dia" style="width: 50%">
-                                <figcaption>Senac promove viagens do Ficthon a alunos vencedores.</figcaption>
+                                <img src="img/Ciberseguranca.jpg" alt="Notícia do dia">
+                                <figcaption>A Importância da Cibersegurança para Pequenas Empresas</figcaption>
+                            </figure>
+                        </a>
+                    </li>
+                    <li>
+                        <p>Aprender a programar pode parecer intimidador, mas com as ferramentas e práticas certas, qualquer pessoa pode dar os primeiros passos. Aqui estão cinco dicas que podem fazer toda a diferença:
+                            Escolha uma linguagem de programação inicial:
+                            <a href="#">...Leia mais</a>
+                        </p>
+                        <a href="#">
+                            <figure>
+                                <img src="img/programa.png" alt="Notícia do dia">
+                                <figcaption>Programação para Iniciantes: 5 Dicas Essenciais para Começar</figcaption>
+                            </figure>
+                        </a>
+                    </li>
+                    <li>
+                        <p>As startups sustentáveis têm ganhado destaque no cenário global ao apresentar soluções inovadoras para problemas ambientais e sociais.
+                            Um exemplo recente é a GreenTech, uma startup que desenvolveu uma tecnologia capaz de transformar resíduos plásticos em materiais de construção. 
+                             <a href="#">...Leia mais</a>
+                        </p>
+                        <a href="#">
+                            <figure>
+                                <img src="img/startup.jpg" alt="Notícia do dia">
+                                <figcaption>Startups Sustentáveis: Inovações Que Estão Transformando o Mundo</figcaption>
                             </figure>
                         </a>
                     </li>
@@ -137,7 +139,40 @@
 
             </section>
             <section class="feeds">
-                <h1>Teste</h1>
+                <h1>Notícias recentes</h1>
+                <ul>
+                    <li>
+                        <a href="#">
+                            <figure>
+                                <img src="img/ods_.png" alt="Notícia do dia">
+                                <figcaption>Como Startups Estão Resolvendo Desafios dos ODS da ONU</figcaption>
+                            </figure>
+                        </a>
+                    </li>
+                    <li>
+                        <a href="#">
+                            <figure>
+                                <img src="img/jogos.jpeg" alt="Notícia do dia">
+                                <figcaption>O Impacto dos Jogos na Educação: Mais do que Diversão</figcaption>
+                            </figure>
+                        </a>
+                    </li>
+                    <li>
+                        <a href="#">
+                            <figure>
+                                <img src="img/home-office.jpg" alt="Notícia do dia">
+                                <figcaption>Trabalhar Remotamente: Benefícios e Desafios em 2024</figcaption>
+                            </figure>
+                        </a>
+                    </li>
+                    <li>
+                        <a href="#">
+                            <figure>
+                                <img src="img/ia.jpeg" alt="Notícia do dia">
+                                <figcaption>A Inteligência Artificial Transformando Pequenos Negócios</figcaption>
+                            </figure>
+                        </a>
+                    </li>
             </section>
         </div>
     </div>

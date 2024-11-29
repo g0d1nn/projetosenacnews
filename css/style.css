@@ -44,14 +44,14 @@ header {
     border-right: none;
 }
 .menu_opcoes a{
-    color:black;
+    color:white;
     font-weight: bold;
     text-align: center;
     text-decoration: none;
     padding: 14px 16px;
 }
 .menu_opcoes li a:hover {
-    color: white;
+    color: rgb(0, 0, 0);
     background-color: #ff7f50;
     box-shadow: 3px 3px 3px rgba(255, 127, 80, 0.6);
     text-shadow: 1px 1px 1px rgba(0, 0, 0, 0.5);
@@ -156,6 +156,7 @@ figcaption {
 
 .busca,
 .menu-departamento {
+    margin-top: 10px;
     border-radius: 10px;
     background-color: #ED9B35;
     font-weight: bold;
@@ -174,7 +175,9 @@ figcaption {
 .busca h2,
 .busca form,
 .menu-departamento h2 {
-margin: 10px;
+    margin: 10px;
+    color:white;
+    border-bottom: none;
 }
 .busca button {
     background-image: url(../img/lupa.png);
@@ -215,7 +218,6 @@ margin: 10px;
 }
 .menu-departamento li ul {
     display: none;
-    transition: all 0.7s easy-in-out;
     position: absolute;
     background-color: #ED9B35;
     border-radius: 10px;
@@ -248,12 +250,14 @@ margin: 10px;
     border-radius: 10px;
 }
 .todo {
+    margin-bottom: 100px;
     position: relative;
     max-width: 100%;
     width: 100%;
     /* height: 500px; */
-    background-color: red;
+    display: flex; 
 }
+
 .principal {
     position: relative;
     max-width: 70%;
@@ -262,14 +266,57 @@ margin: 10px;
     background-color: #ffffff;
 }
 .feeds {
-    float: right;
+    margin-top: 80px;
     max-width: 30%;
     width: 30%;
-    /* height: 500px; */
-    background-color: yellow;
-}
-.principal h2 {
     text-align: center;
+}
+
+
+.feeds figure {
+    background-color: #fffcfc;
+    border: 1px solid #ccc;
+    text-align: center;
+    border-radius: 20px;
+}
+.feeds figcaption {
+    color: black;
+}
+
+.feeds ul {
+    list-style-type: none;
+}
+
+.feeds a {
+    text-decoration: none;
+}
+
+.feeds figure img {
+    width: 100%;
+}
+
+.feeds figcaption:hover {
+    background-color: #ED9B35;
+    border-radius: 10px;
+    color:white;
+}
+
+.feeds h1 {
+    border: 2px solid #ED9B35;
+    border-radius: 10px; 
+    padding: 10px;
+    text-align: center;
+    background-color: #ED9B35;
+    color:white;
+}
+
+.principal h2 {
+    border: 2px solid #ED9B35;
+    border-radius: 10px; 
+    padding: 10px;
+    text-align: center;
+    background-color: #ED9B35;
+    color:white;
 }
 
 .principal li {
@@ -278,13 +325,13 @@ margin: 10px;
 }
 
 
-
 .principal figure {
     padding: 15px;
     margin: 30px;
     background-color: #fffcfc;
     border: 1px solid #ccc;
     text-align: left;
+    border-radius: 20px;
 }
 
 .principal figcaption {
@@ -303,5 +350,16 @@ margin: 10px;
 
 .principal a {
     text-decoration: none;
+    color: #ED9B35;
 }
 
+.principal figcaption:hover {
+    background-color: #ED9B35;
+    border-radius: 10px;
+    color:white;
+}
+
+.principal figure img {
+    width: 50%;
+    max-width: 500px; 
+}
